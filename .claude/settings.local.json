@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python3 -c ' *)",
+      "WebSearch",
+      "Bash(pdftotext -l 2 -enc UTF-8 \"1.你为什么不会聊天.pdf\" -)",
+      "Bash(mkdir -p \"d:/Files/markdown/mpec.skill/.claude/skills/情感分析聊天大师\")",
+      "Bash(mv \"d:/Files/markdown/mpec.skill/SKILL.md\" \"d:/Files/markdown/mpec.skill/.claude/skills/情感分析聊天大师/SKILL.md\")",
+      "WebSearch",
+      "WebFetch"
+    ]
+  }
+}
