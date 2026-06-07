@@ -128,7 +128,7 @@ cyrus-mpec-skill/
 
 ## 👤 关于 Cyrus
 
-做了八年情感行业，在西安。教的是男人怎么读懂女人、怎么在聊天中不犯错。
+做了八年情感行业 教的是男人怎么读懂女人 怎么在聊天中不犯错
 
 Skill 从 Cyrus 的 104+ 节课讲义、103 个 PDF 教材、知乎/简书专栏内容中蒸馏而成——提取了他的判断框架、说话习惯和底线边界，而非简单罗列话术。
 
@@ -142,4 +142,4 @@ MIT © cyrus-sol-y
 
 ## 🙏 参考
 
-本项目受 [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) 启发 —— "将同事的知识和风格赛博永生"。
+本项目受 [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) 启发 —— "赛博永生"。
